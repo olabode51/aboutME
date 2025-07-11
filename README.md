@@ -1,5 +1,9 @@
 # AboutME
 
+#Hi there, I am Olabode Odewole
+
+## I am a 
+
 I am currently working on Microsoft and Power to get insight into data
 I am currently learning SQL and Python for data analysis
 I am looking to collaborate with data analytics enthusiast
